@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?74bc1a431b58e03aa31e9e7b07d30669") format("truetype"),
+url("./flaticon.woff?74bc1a431b58e03aa31e9e7b07d30669") format("woff"),
+url("./flaticon.woff2?74bc1a431b58e03aa31e9e7b07d30669") format("woff2"),
+url("./flaticon.eot?74bc1a431b58e03aa31e9e7b07d30669#iefix") format("embedded-opentype"),
+url("./flaticon.svg?74bc1a431b58e03aa31e9e7b07d30669#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-laptop:before {
+    content: "\f101";
+}
+.flaticon-imac:before {
+    content: "\f102";
+}
+.flaticon-paint-board-and-brush:before {
+    content: "\f103";
+}
+.flaticon-botanic:before {
+    content: "\f104";
+}
+.flaticon-compass:before {
+    content: "\f105";
+}
+.flaticon-map:before {
+    content: "\f106";
+}
+.flaticon-atom-1:before {
+    content: "\f107";
+}
